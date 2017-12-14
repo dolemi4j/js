@@ -4,4 +4,4 @@ console.error(s.name);
 
 s.name = "xcz";
 
-s = {};
+s = {};    
